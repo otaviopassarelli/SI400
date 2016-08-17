@@ -14,6 +14,9 @@ Mirelle Candida Bueno     | 174909 | mirelle.bueno21@hotmail.com  | @codloverS2
 Otavio Passarelli Praça   | 175390 | otaviopassarelli@outlook.com | @otaviopassarelli
 Vitor Artoni de Marcio    | 178379 | vitor_artonio@hotmail.com    | @VitorArtoni
 
+**Motivação**
+Contabilizar a média de consumo de Kilowatt/hora de uma população de um determinado local é pertinente para estimar quais locais consomem mais e menos, sendo possível, assim, analisar a disponibilidade e longevidade da distribuição de energia elétrica nos referidos locais a partir das caracteristicas locais, contribuindo para uma melhor distribuição sustentável, bem como econômica e social. 
+
 **Fonte dos dados:**
 http://data.worldbank.org/indicator/EG.USE.ELEC.KH.PC?end=2013&name_desc=false&start=1960&view=chart
 
